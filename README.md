@@ -1,6 +1,12 @@
-## Hi there 👋
+# JAVIER MEDINA ÁLVAREZ
+## Aprendiz de Desarrollador Web Full Stack || Ingeniero Electrónico Industrial y Automático
+
+
+
+
 
 <!--
+## Hi there 👋
 **javimedina99/javimedina99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
